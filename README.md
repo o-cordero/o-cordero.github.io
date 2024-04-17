@@ -1,7 +1,7 @@
 # o-cordero.github.io
 
 Markdown Syntax
-# H1
+# This is section will hold project files.
 ## H2
 ### H3
 
@@ -27,4 +27,5 @@ Code
 
 Horizontal Rule	---
 Link	[title](https://www.example.com)
-Image	![alt text](image.jpg)
+Image -
+![Antarctica](ant1.jpg)
